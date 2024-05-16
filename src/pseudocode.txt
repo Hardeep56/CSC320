@@ -1,0 +1,15 @@
+
+1. Start
+2. Declare variables: firstName, lastName, streetAddress, city, zipCode
+3. Assign values to variables:
+   - firstName = "Hardeep"
+   - lastName = "Singh"
+   - streetAddress = "237 Columbus Dr"
+   - city = "Manteca"
+   - zipCode = "95337"
+4. Print firstName
+5. Print lastName
+6. Print streetAddress
+7. Print city
+8. Print zipCode
+9. End
